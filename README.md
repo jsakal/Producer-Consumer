@@ -9,6 +9,9 @@ g++ consumer.cpp -pthread -lrt -o consumer
 Code uploaded in the form of 'producer.cpp' for producer
 and 'consumer.cpp' for consumer.
 
+Written in the terminal of Linux Ubuntu 20.04.3
+GNOME Version 3.36.8
+
 Code most likely doesn't work, as I got confused on 
 shared memory and semaphores. I do not know enough 
 about them and looking them up confused me. The attached 
